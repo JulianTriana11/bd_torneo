@@ -61,4 +61,12 @@
   "resultado": "3-1",
   "puntos_local": 3,
   "puntos_visitante": 0
+},
+{
+  "_id": 9,
+  "equipo_local": "Junior de barranquilla",
+  "equipo_visitante": "Independiente Santa fe",
+  "resultado": "2-1",
+  "puntos_local": 3,
+  "puntos_visitante": 0
 }]
