@@ -57,4 +57,16 @@
   "golesFavor": 24,
   "golesContra": 23,
   "diferenciaGoles": 1
+},
+{
+  "_id": 6,
+  "equipo": "Junior de Barranquilla",
+  "puntos": 33,
+  "partidosJugados": 20,
+  "victorias": 8,
+  "empates": 9,
+  "derrotas": 3,
+  "golesFavor": 27,
+  "golesContra": 21,
+  "diferenciaGoles": 6
 }]
