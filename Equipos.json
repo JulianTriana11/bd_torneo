@@ -27,4 +27,10 @@
   "ciudad": "Cali",
   "estadio": "Estadio Deportivo Cali",
   "equipo": "Deportivo Cali"
+},
+{
+ "_id": 6,
+  "ciudad": "Barranquilla",
+  "estadio": "Metropolitano Roberto Melendez",
+  "equipo": "Junior" 
 }]
