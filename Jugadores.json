@@ -87,4 +87,23 @@
   "nacionalidad": "Uruguaya",
   "equipo_id": "5",
   "equipo": "Deportivo Cali"
+}
+,
+{
+  "_id": 11,
+  "nombre": "Carlos Bacca",
+  "posicion": "Delantero",
+  "edad": 38,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "6",
+  "equipo": "Junior de barranquilla"
+},
+{
+  "_id": 12,
+  "nombre": "Yimmi Chara",
+  "posicion": "Centrocampista",
+  "edad": 33,
+  "nacionalidad": "Colombiana",
+  "equipo_id": "6",
+  "equipo": "Junior de barranquilla"
 }]
