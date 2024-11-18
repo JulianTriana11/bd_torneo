@@ -22,4 +22,10 @@
   "_id": 5,
   "equipo": "Deportivo Cali",
   "entrenador": "Alfredo Arias"
-}]
+},
+{
+  "_id": 6,
+  "equipo": "Junior de barranquilla",
+  "entrenador": "Cesar Farias"
+}
+]
